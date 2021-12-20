@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dannyr0xx
-- 👀 I’m interested in market research, data analitics
+- 👀 I’m interested in market research, data analytics
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
