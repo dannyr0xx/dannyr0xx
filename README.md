@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dannyr0xx
-- 👀 I’m interested in market research, data analytics, data science
-- 🌱 I’m currently learning R, Python, Sql
+- 👋 Hi, I’m Daniel Gulyas
+- 👀 I’m interested in market research, data analytics, data science, machine learning, AI
+- 🌱 I’m currently using R, Python, Sql
 - 💞️ I’m looking to collaborate with fellow Data Scientists
 - 📫 How to reach me : +36302384181
 
